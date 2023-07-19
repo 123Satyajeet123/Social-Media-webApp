@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.0",
+    "morgan": "^1.10.0",
+    "multer-gridfs-storage": "^5.0.2"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyajeet",
+  "license": "ISC",
+  "description": ""
+}
